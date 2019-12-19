@@ -2,7 +2,7 @@ import requests
 import time
 import datetime
 
-URL = 'http://docker.hackthebox.eu:32420/'
+URL = 'http://'
 user = 'admin'
 wordlistPath = '/usr/share/wordlists/rockyou.txt'
 failMessage = 'Invalid password!'
